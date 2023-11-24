@@ -12,16 +12,15 @@ need extra resources
 4. Thin Driver (Direct to Database Pure Java Driver)- Best Driver Resolve all Shortcoming of all other Driver Wrote in Java Light weight 
 
 <h2>Components of JDBC </h2>
-1. DriverManager Class : 
+<h4>1. DriverManager Class : </h4>
 	Method : getConnection() Connect to Database
 
-2. Connection Interface:
+<h4>2. Connection Interface:</h4>
 	Stores connection in Instance
 
-4. Statement and PreparedStatement Interfaces: 
+<h4>4. Statement and PreparedStatement Interfaces: </h4>
 	Used to Run SQL Query
-
-5. ResultSet Interface:
+<h4>5. ResultSet Interface:</h4>
 	Store the result of query in Instance
 
 
