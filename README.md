@@ -29,7 +29,6 @@ need extra resources
 For Selection We Use executeQuery method
 
 For Update Delete or Insert we use executeUpdate method
-
 For Making Table we use execute method
 
 
