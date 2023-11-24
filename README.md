@@ -25,7 +25,7 @@ need extra resources
 
 
 
-<h5>Types of Exwcute Statement</h5>
+<h2>Types of Exwcute Statement</h2>
 For Selection We Use executeQuery method
 For Update Delete or Insert we use executeUpdate method
 For Making Table we use execute method
